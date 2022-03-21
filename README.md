@@ -1,1 +1,1 @@
-# Univesp-algorimos-python
+# Exercícios simples e práticos de algoritmos em python.
